@@ -15,7 +15,7 @@
 </h3>
 
 <blockquote align="center">
-  Esse projeto faz parte de um bootcamp:
+  Esse projeto faz parte do bootcamp:
     <a href="https://rocketseat.com.br/gostack">
       GoStack by RocketSeat
     </a> 
@@ -83,5 +83,7 @@ Autor: <a alt="Fred-Reis" href="https://github.com/joaovictorpsantos">João Vict
     <img src="https://img.shields.io/badge/LinkedIn-Jo%C3%A3o%20Victor%20Pereira%20Santos-blue?logo=linkedin"/></a>
   <a alt="Frederico Reis" href="https://github.com/joaovictorpsantos">
   <img src="https://img.shields.io/badge/GitHub-joaovictorpsantos-lightgrey?logo=github"/></a>
+ <a alt="Frederico Reis" href="https://twitter.com/_joaovictorps">
+  <img src="https://img.shields.io/badge/Twitter-__joaovictorps-blue?logo=twitter"/></a>
 
 </p>
