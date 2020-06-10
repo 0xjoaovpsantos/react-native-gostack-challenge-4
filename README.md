@@ -5,9 +5,33 @@
 
 </div>
 
-<h2 align="center">
-   Desafio 04: Conceitos sobre React Native
-</h2>
+# Desafio 04: Conceitos sobre React Native
+
+> Aplicativo feito com React Native durante o bootcamp GoStack
+
+<a href="https://github.com/joaovictorpsantos">
+<img alt="Autor" src="https://img.shields.io/badge/autor-JoãoVictorPereiraSantos-7159c1?style=flat-square">
+</a>
+
+<a href="#">
+<img alt="Linguagens" src="https://img.shields.io/github/languages/count/joaovictorpsantos/react-native-gostack-challenge-4?color=7159c1&style=flat-square">
+</a>
+
+<a href="https://github.com/joaovictorpsantos/react-native-gostack-challenge-4/stargazers">
+<img alt="Stars" src="https://img.shields.io/github/stars/joaovictorpsantos/react-native-gostack-challenge-4?color=7159c1&style=flat-square">
+</a>
+
+<a href="https://github.com/joaovictorpsantos/react-native-gostack-challenge-4/network/members">
+<img alt="Forks" src="https://img.shields.io/github/forks/joaovictorpsantos/react-native-gostack-challenge-4?color=7159c1&style=flat-square">
+</a>
+
+<a href="#">
+<img alt="Tamanho do código em bytes" src="https://img.shields.io/github/languages/code-size/joaovictorpsantos/react-native-gostack-challenge-4?color=7159c1&style=flat-square">
+</a>
+
+<a href="https://github.com/joaovictorpsantos/react-native-gostack-challenge-4/commits/master">
+<img alt="Commits" src="https://img.shields.io/github/last-commit/joaovictorpsantos/react-native-gostack-challenge-4?color=7159c1&style=flat-square">
+</a>
 
 <h3 align="center">
   <img alt="ReactNative" 
